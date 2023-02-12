@@ -1,6 +1,6 @@
 ### Roadmap in the fields of programming in 2023. You can download from the list below!
 
-<img src="https://telegra.ph/file/76e84b36719cdf488e2bf.png" alt="Mukhriddin Khodiev" width="320" height="320" style="display:block; margin: 0 auto; border-radius:15px" />
+<img src="https://telegra.ph/file/f16d8e3b73d9895520696.png" alt="Mukhriddin Khodiev" width="320" height="320" style="display:block; margin: 0 auto; border-radius:15px; text-align:center; " />
 <br>
 
 ### Roadmap of programming in 2023. 
