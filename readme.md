@@ -1,5 +1,25 @@
-<object data="./angular.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./angular.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./angular.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+### Roadmap in the fields of programming in 2023. You can download from the list below!
+
+<img src="https://telegra.ph/file/76e84b36719cdf488e2bf.png" alt="Mukhriddin Khodiev" width="320" height="320" style="display:block; margin: 0 auto; border-radius:15px" />
+<br>
+
+### Roadmap of programming in 2023. 
+
+<br>
+
+ 1. <p>software-design-architecture: <a href="./software-design-architecture.pdf">Download PDF</a>.</p>
+ 2. <p>Design-system: <a href="./design-system.pdf">Download PDF</a>.</p>
+  1. <p>Frontend: <a href="./frontend.pdf">Download PDF</a>.</p>
+ 2. <p>Backend: <a href="./backend.pdf">Download PDF</a>.</p>
+
+  1. <p>Javascript: <a href="./javascript.pdf">Download PDF</a>.</p>
+ 2. <p>Typescript: <a href="./typescript.pdf">Download PDF</a>.</p>
+   1. <p>React: <a href="./react.pdf">Download PDF</a>.</p>
+ 2. <p>Angular: <a href="./angular.pdf">Download PDF</a>.</p>
+
+ 2. <p>Vue: <a href="./vue.pdf">Download PDF</a>.</p>
+
+ <br>
+ <br>
+
+ The materials were taken from the site https://roadmap.sh  "Allah" be pleased with it 🤲🤲🤲
